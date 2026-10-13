@@ -1,0 +1,126 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "pets": "Mis Mascotas",
+    "shop": "Tienda"
+  },
+  "header": {
+    "heading": "🐾 ¡Pet Pals! 🐾",
+    "body": "¡Bienvenido! ¡Eres el mejor cuidador de mascotas! Cuida a tus 4 amigos peludos — ¡aliméntalos, juega con ellos y dale muchos mimos! 🥰"
+  },
+  "coinCounter": {
+    "heading": "💰 Tus Monedas",
+    "body": "¡Comienzas con 100 monedas! Gástalas en la tienda para comprar comida deliciosa y juguetes divertidos para tus mascotas. ¡No te quedes sin monedas! 😄"
+  },
+  "petsGrid": {
+    "heading": "¡Tus 4 Mascotas! 🐶🐱🐰🐹",
+    "body": "Cada mascota tiene una barra de hambre 🍖 y una barra de felicidad ⭐. ¡Si las barras bajan, tu mascota está triste o tiene hambre! ¡Presiona los botones para ayudarla! 💪"
+  },
+  "shopSection": {
+    "heading": "🛒 ¡La Tienda Pet Pals!",
+    "body": "¡Gasta tus monedas aquí para obtener comida y juguetes! ¡Elige algo y presiona Comprar! ¡A tu mascota le encantará! 🎉"
+  },
+  "shop": {
+    "sectionTitle": "Tienda de Mascotas",
+    "foodTab": "Comida",
+    "toysTab": "Juguetes",
+    "buyButton": "Comprar",
+    "coinsLabel": "monedas"
+  },
+  "celebration": {
+    "heading": "🌟 ¡Eres un Gran Cuidador de Mascotas! 🌟",
+    "body": "¡WOW! ¡Todas tus mascotas están felices Y satisfechas! ¡¡Eres increíble!! 🎉🐾 ¡Sigue así y tus mascotas te amarán por siempre! 💛"
+  },
+  "meta": {
+    "title": "Pet Pals - ¡Cuida a Tus Amigos Peludos!",
+    "description": "Un divertido juego de cuidado de mascotas para niños de 6 a 10 años. ¡Alimenta, juega y ama a tus mascotas!"
+  },
+  "hero": {
+    "title": "Pet Pals",
+    "tagline": "¡Cuida a tus amigos peludos!",
+    "subtitle": "¡Alimenta, juega y acaricia a tus mascotas para mantenerlas felices!",
+    "coinLabel": "monedas",
+    "earnButton": "+ Ganar",
+    "allHappyBanner": "¡Eres un gran cuidador de mascotas!"
+  },
+  "pets": {
+    "sectionTitle": "Mis Mascotas",
+    "feedButton": "Alimentar",
+    "playButton": "Jugar",
+    "petButton": "Acariciar",
+    "freeLabel": "¡Gratis!",
+    "tummyLabel": "Barriguita",
+    "happyLabel": "Felicidad"
+  },
+  "howToPlay": {
+    "sectionTitle": "Cómo Jugar",
+    "tips": [
+      {
+        "emoji": "🍖",
+        "title": "Feed Your Pets",
+        "desc": "Spend coins to fill their tummy bar. A hungry pet is a sad pet!"
+      },
+      {
+        "emoji": "🎾",
+        "title": "Play Together",
+        "desc": "Toss a ball or run around for free. Playing boosts happiness!"
+      },
+      {
+        "emoji": "🤗",
+        "title": "Give Cuddles",
+        "desc": "Pet your furry friend for free. They love the attention!"
+      },
+      {
+        "emoji": "🪙",
+        "title": "Earn Coins",
+        "desc": "Tap the Earn button to get more coins for food and toys."
+      }
+    ]
+  },
+  "facts": {
+    "sectionTitle": "¡Datos Curiosos sobre Mascotas!",
+    "items": [
+      {
+        "pet": "🐶",
+        "name": "Dogs",
+        "fact": "Dogs can learn over 150 words and love to play fetch. They wag their tails when they are happy!"
+      },
+      {
+        "pet": "🐱",
+        "name": "Cats",
+        "fact": "Cats sleep up to 16 hours a day. They purr when they feel safe and loved by their owners."
+      },
+      {
+        "pet": "🐰",
+        "name": "Bunnies",
+        "fact": "Bunnies jump and twist in the air when they are super happy. This is called a binky!"
+      },
+      {
+        "pet": "🐹",
+        "name": "Hamsters",
+        "fact": "Hamsters can run up to 5 miles on their wheel every night. They store food in their cheeks!"
+      }
+    ]
+  },
+  "coin-counter": [
+    "💰 100 coins to start — use them wisely!",
+    "Buy food 🍖 to fill your pet's tummy",
+    "Buy toys 🎾 to make your pet super happy",
+    "Keep an eye on your coins at the top of the screen!"
+  ],
+  "pets-grid": [
+    "🐶 Biscuit the Dog — loves to play fetch and eat big bones! Feed him 🍖, play with him 🎾, or give him a cuddle 🤗",
+    "🐱 Mochi the Cat — a little bit fancy! She likes fish 🐟 and chasing toy mice 🖱️. Pet her gently for purrs!",
+    "🐰 Coco the Bunny — so fluffy and bouncy! Coco loves crunchy carrots 🥕 and hopping around with toys. Give her a hug!",
+    "🐹 Peanut the Hamster — tiny but mighty! Peanut goes crazy for sunflower seeds 🌻 and running on his wheel. Tickle him!",
+    "🍖 Feed button — costs coins but fills the hunger bar right up!",
+    "🎾 Play button — toss a toy and watch the happiness bar zoom up!",
+    "🤗 Pet button — give your pal a cuddle and see them smile!"
+  ],
+  "celebration-items": [
+    "🎊 All 4 pets are happy and fed — you did it!",
+    "🌈 Biscuit, Mochi, Coco and Peanut are doing a happy dance just for you!",
+    "⭐ You are the best pet keeper in the whole world!",
+    "🔁 Keep playing — their bars will go down again and they need you!"
+  ]
+}

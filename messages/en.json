@@ -1,0 +1,126 @@
+{
+  "nav": {
+    "home": "Home",
+    "pets": "My Pets",
+    "shop": "Shop"
+  },
+  "header": {
+    "heading": "🐾 Pet Pals! 🐾",
+    "body": "Welcome! You are the best pet keeper ever! Take care of your 4 furry friends — feed them, play with them, and give them lots of cuddles! 🥰"
+  },
+  "coinCounter": {
+    "heading": "💰 Your Coins",
+    "body": "You start with 100 coins! Spend them in the shop to buy yummy food and fun toys for your pets. Don't run out! 😄"
+  },
+  "coin-counter": [
+    "💰 100 coins to start — use them wisely!",
+    "Buy food 🍖 to fill your pet's tummy",
+    "Buy toys 🎾 to make your pet super happy",
+    "Keep an eye on your coins at the top of the screen!"
+  ],
+  "petsGrid": {
+    "heading": "Your 4 Pets! 🐶🐱🐰🐹",
+    "body": "Each pet has a hunger bar 🍖 and a happiness bar ⭐. If the bars go down, your pet is sad or hungry! Press the buttons to help them! 💪"
+  },
+  "pets-grid": [
+    "🐶 Biscuit the Dog — loves to play fetch and eat big bones! Feed him 🍖, play with him 🎾, or give him a cuddle 🤗",
+    "🐱 Mochi the Cat — a little bit fancy! She likes fish 🐟 and chasing toy mice 🖱️. Pet her gently for purrs!",
+    "🐰 Coco the Bunny — so fluffy and bouncy! Coco loves crunchy carrots 🥕 and hopping around with toys. Give her a hug!",
+    "🐹 Peanut the Hamster — tiny but mighty! Peanut goes crazy for sunflower seeds 🌻 and running on his wheel. Tickle him!",
+    "🍖 Feed button — costs coins but fills the hunger bar right up!",
+    "🎾 Play button — toss a toy and watch the happiness bar zoom up!",
+    "🤗 Pet button — give your pal a cuddle and see them smile!"
+  ],
+  "shopSection": {
+    "heading": "🛒 The Pet Pals Shop!",
+    "body": "Spend your coins here to get food and toys! Pick something and press Buy! Your pet will love it! 🎉"
+  },
+  "shop": {
+    "sectionTitle": "Pet Shop",
+    "foodTab": "Food",
+    "toysTab": "Toys",
+    "buyButton": "Buy",
+    "coinsLabel": "coins"
+  },
+  "celebration": {
+    "heading": "🌟 You're a Great Pet Keeper! 🌟",
+    "body": "WOW! All your pets are happy AND full! You are amazing! 🎉🐾 Keep it up and your pets will love you forever! 💛"
+  },
+  "celebration-items": [
+    "🎊 All 4 pets are happy and fed — you did it!",
+    "🌈 Biscuit, Mochi, Coco and Peanut are doing a happy dance just for you!",
+    "⭐ You are the best pet keeper in the whole world!",
+    "🔁 Keep playing — their bars will go down again and they need you!"
+  ],
+  "meta": {
+    "title": "Pet Pals - Take Care of Your Furry Friends!",
+    "description": "A fun pet care game for kids aged 6 to 10. Feed, play with, and love your pets!"
+  },
+  "hero": {
+    "title": "Pet Pals",
+    "tagline": "Take care of your furry friends!",
+    "subtitle": "Feed, play, and cuddle your pets to keep them happy!",
+    "coinLabel": "coins",
+    "earnButton": "+ Earn",
+    "allHappyBanner": "You're a great pet keeper!"
+  },
+  "pets": {
+    "sectionTitle": "My Pets",
+    "feedButton": "Feed",
+    "playButton": "Play",
+    "petButton": "Pet",
+    "freeLabel": "Free!",
+    "tummyLabel": "Tummy",
+    "happyLabel": "Happy"
+  },
+  "howToPlay": {
+    "sectionTitle": "How to Play",
+    "tips": [
+      {
+        "emoji": "🍖",
+        "title": "Feed Your Pets",
+        "desc": "Spend coins to fill their tummy bar. A hungry pet is a sad pet!"
+      },
+      {
+        "emoji": "🎾",
+        "title": "Play Together",
+        "desc": "Toss a ball or run around for free. Playing boosts happiness!"
+      },
+      {
+        "emoji": "🤗",
+        "title": "Give Cuddles",
+        "desc": "Pet your furry friend for free. They love the attention!"
+      },
+      {
+        "emoji": "🪙",
+        "title": "Earn Coins",
+        "desc": "Tap the Earn button to get more coins for food and toys."
+      }
+    ]
+  },
+  "facts": {
+    "sectionTitle": "Fun Pet Facts!",
+    "items": [
+      {
+        "pet": "🐶",
+        "name": "Dogs",
+        "fact": "Dogs can learn over 150 words and love to play fetch. They wag their tails when they are happy!"
+      },
+      {
+        "pet": "🐱",
+        "name": "Cats",
+        "fact": "Cats sleep up to 16 hours a day. They purr when they feel safe and loved by their owners."
+      },
+      {
+        "pet": "🐰",
+        "name": "Bunnies",
+        "fact": "Bunnies jump and twist in the air when they are super happy. This is called a binky!"
+      },
+      {
+        "pet": "🐹",
+        "name": "Hamsters",
+        "fact": "Hamsters can run up to 5 miles on their wheel every night. They store food in their cheeks!"
+      }
+    ]
+  }
+}
